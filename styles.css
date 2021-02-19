@@ -1,23 +1,23 @@
-.head_name{
+.logo{
     font-family: PT Serif;
     font-style: normal;
     font-weight: bold;
 }
-.navigac{
+.menu{
     font-family: PT Serif;
     font-style: normal;
     font-weight: bold;
 }
-.title{
+.main-content_title{
     font-family: PT Serif;
     font-style: normal;
 }
-.p_text{
+.main-content_text{
     font-family: Roboto;
     font-style: normal;
-  
+ 
 }
-.button_text{
+.main-content_button{
     font-family: Roboto;
     font-style: normal;
 }
