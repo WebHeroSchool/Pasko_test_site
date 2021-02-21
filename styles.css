@@ -8,16 +8,16 @@
     font-style: normal;
     font-weight: bold;
 }
-.main-content_title{
+.main-content__title{
     font-family: PT Serif;
     font-style: normal;
 }
-.main-content_text{
+.main-content__description{
     font-family: Roboto;
     font-style: normal;
  
 }
-.main-content_button{
+.main-content__button{
     font-family: Roboto;
     font-style: normal;
 }
