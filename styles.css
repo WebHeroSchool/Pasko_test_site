@@ -1,0 +1,23 @@
+.logo{
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: bold;
+}
+.menu{
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: bold;
+}
+.main-content__title{
+    font-family: PT Serif;
+    font-style: normal;
+}
+.main-content__description{
+    font-family: Roboto;
+    font-style: normal;
+ 
+}
+.main-content__button{
+    font-family: Roboto;
+    font-style: normal;
+}
